@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Lib: SpellInfo
+## Author: laytya
+## SavedVariables: 
+
+libs\LibStub\LibStub.lua
+
+LibSpellInfo.lua
